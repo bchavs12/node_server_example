@@ -6,7 +6,7 @@
   "main": "server.js",
   "scripts": {
     "test": "node test.js",
-    "server": "node server.js"
+    "server": "node --watch --trace-warnings server.js"
   },
   "author": "bksystem",
   "license": "ISC",
