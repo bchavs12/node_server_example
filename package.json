@@ -1,0 +1,16 @@
+{
+  "name": "node_server",
+  "version": "1.0.0",
+  "description": "node server example",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "node test.js",
+    "server": "node server.js"
+  },
+  "author": "bksystem",
+  "license": "ISC",
+  "dependencies": {
+    "sqlite3": "^5.1.7"
+  }
+}
